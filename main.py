@@ -1,3 +1,5 @@
+## This file plots data from arduino (temp and water level) through streamlit (vs code)
+
 import streamlit as st
 import serial
 import pandas as pd
